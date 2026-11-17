@@ -7,9 +7,11 @@ Import:
 
 Clone:
   Your definition:
+	Cloning is when you take a repository from online and make a copy that links to the online repository and place the copied version on your local computer.
 
 Fork:
   Your definition:
+	Forking is when you take a copy of someone else's repository and make changes to the file.
 
 Branch:
   Your definition:
@@ -24,3 +26,4 @@ Upstream tracking (git push -u):
   Your definition:
 
 Completed by:
+Mikayla Pevie
